@@ -9,7 +9,7 @@
    <h2>Learning Goals</h2>
   </summary>
 
- This exercise allows you to practice and apply the concepts and techniques taught in class. 
+ This exercise allows you to practice and apply the concepts and techniques taught in class.
 
   Upon completion of this exercise, you will be able to:
 
@@ -24,7 +24,7 @@
   - Use the `return` keyword to return a value from a function.
 
   <br>
-  <hr> 
+  <hr>
 
 </details>
 
@@ -290,7 +290,7 @@ Returns the current status of the `War` based on the size of the armies.
 - **if the `Viking` array is empty**, should return **_"Saxons have fought for their lives and survived another day..."_**
 - **if there are at least 1 `Viking` and 1 `Saxon`**, should return **_"Vikings and Saxons are still in the thick of battle."_**
 
-  
+
 
 **Happy Coding!** :heart:
 
@@ -307,7 +307,7 @@ Returns the current status of the `War` based on the size of the armies.
   If you are stuck in your code and don't know how to solve the problem or where to start, you should take a step back and try to form a clear question about the specific issue you are facing. This will help you narrow down the problem and come up with potential solutions.
 
 
-  For example, is it a concept that you don't understand, or are you receiving an error message that you don't know how to fix? It is usually helpful to try to state the problem as clearly as possible, including any error messages you are receiving. This can help you communicate the issue to others and potentially get help from classmates or online resources. 
+  For example, is it a concept that you don't understand, or are you receiving an error message that you don't know how to fix? It is usually helpful to try to state the problem as clearly as possible, including any error messages you are receiving. This can help you communicate the issue to others and potentially get help from classmates or online resources.
 
 
   Once you have a clear understanding of the problem, you will be able to start working toward the solution.
@@ -370,7 +370,7 @@ Returns the current status of the `War` based on the size of the armies.
   <summary>How do I remove an element from an array?</summary>
   <br>
 
-  You should use the `splice()` method to remove an array element at a specified index. The `splice()` method modifies the original array and returns an array containing the removed elements. 
+  You should use the `splice()` method to remove an array element at a specified index. The `splice()` method modifies the original array and returns an array containing the removed elements.
 
   Syntax:
 
@@ -407,7 +407,7 @@ Returns the current status of the `War` based on the size of the armies.
   <summary>How can I extend a class and reuse methods through inheritance?</summary>
   <br>
 
-  In JavaScript, you can use the `extends` keyword to create a *subclass* that extends a *superclass* (also called a base class). 
+  In JavaScript, you can use the `extends` keyword to create a *subclass* that extends a *superclass* (also called a base class).
 
   The subclass inherits methods and properties from the superclass and can also have its own methods and properties.
 
@@ -418,7 +418,7 @@ Returns the current status of the `War` based on the size of the armies.
     constructor (name) {
       this.name = name;
     }
-    
+
     bark() {
       console.log(`${this.name} is barking.`);
     }
